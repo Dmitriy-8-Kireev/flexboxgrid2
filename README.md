@@ -4,11 +4,26 @@
 
 Modern 12 column grid system based on flex property.
 
-→ [Documentation](https://dmitriy-8-kireev.github.io/flexboxgrid2/)
+→ [Documentation](https://dmitriy-8-kireev.github.io/flexboxgrid2/docs/)
 
 ## Motivation
 
 Forked from [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) because original project seems abandoned ([kristoferjoseph/flexboxgrid#236](https://github.com/kristoferjoseph/flexboxgrid/pull/236), [kristoferjoseph/flexboxgrid#229](https://github.com/kristoferjoseph/flexboxgrid/pull/229), [kristoferjoseph/flexboxgrid#211](https://github.com/kristoferjoseph/flexboxgrid/pull/211), etc).
+
+## Column sizes in percent
+
+* `col-1`: 8,3%
+* `col-2`: 16,6%
+* `col-3`: 25%
+* `col-4`: 33,3%
+* `col-5`: 41,6%
+* `col-6`: 50%
+* `col-7`: 58,3%
+* `col-8`: 66,6%
+* `col-9`: 75%
+* `col-10`: 83,3%
+* `col-11`: 91,6%
+* `col-12`: 100%
 
 ## Breakpoints
 
